@@ -33,7 +33,7 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 
 1. Click on STM 32 CUBE IDE, the following screen will appear
    
-![image](https://user-images.githubusercontent.com/36288975/226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3.png)
+![Screenshot 2025-04-17 091929](https://github.com/user-attachments/assets/3140105c-c158-4c8b-8963-d27f3e360fc9)
 
 2. Click on FILE, click on new stm 32 project
    
